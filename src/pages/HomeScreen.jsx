@@ -1,38 +1,4 @@
-// import React from 'react'
-// // import homeScreenImg from '../assets/HeroImage.jpeg'
-// import heroImg from "../assets/HeroImage.jpeg"
-// const HomeScreen = () => {
-//   return (
-//     <div className='h-screen relative'>
-        
-//         <div className='h-screen bg-transparent rounded-2xl flex items-center justify-center'>
-// <img 
-//   src={heroImg} 
-//   alt="heroImg"  
-//   className='w-full h-full object-cover rounded-md' 
-// />
-// <div className='absolute left-28'>
 
-//     <div className='flex flex-col gap-y-4'>
-//         <p className='text-orange-500 font-bold text-xl bg-black/40 w-fit p-2 rounded-2xl'>Powering the Digital Backbone of Transportation</p>
-//         <h4 className='text-5xl font-bold text-white '>
-//             Integrated Intelligent Mobility <br /> Infrastructure
-//             <br />
-//             <span className='text-orange-600'>
-// Driving Road Safety & <br />Real-Time Transport Governance
-// </span>
-//         </h4>
-//         <button className='bg-amber-500 p-3 rounded-2xl text-white w-1/3'>Explore More about us</button>
-//     </div>
-
-// </div>
-//         </div>
-    
-//     </div>
-//   )
-// }
-
-// export default HomeScreen
 import React from 'react'
 import heroImg from "../assets/HeroImage.jpeg"
 import Solutions from '../components/Solutions'
